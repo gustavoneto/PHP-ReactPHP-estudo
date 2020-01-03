@@ -1,0 +1,10 @@
+{
+    "name": "estudo-reactPHP",
+    "description": "Estudo sobre ReactPHP",
+    "require": {
+        "react/event-loop": "^0.4",
+        "react/filesystem": "^0.1.2",
+        "clue/buzz-react": "^2.6",
+        "react/http": "^0.8.5"
+    }
+}
